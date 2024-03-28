@@ -13,3 +13,13 @@ bower_components
 psd
 thumb
 sketch
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+npm-debug.log
